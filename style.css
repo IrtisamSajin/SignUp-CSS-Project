@@ -97,3 +97,14 @@ footer a:hover{
     right: 10%;
 }
 
+@media (max-width:480px){
+    .innerBox{
+        width: 80%;
+        height: 78%;
+    }
+
+    main p{
+        margin:5px 0 5px;
+    }
+}
+
