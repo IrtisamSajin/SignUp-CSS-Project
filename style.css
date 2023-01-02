@@ -111,12 +111,12 @@ footer a:hover{
     }
 
     main p input{
-        border:1px solid #736b6b;
+        border:1px solid #686060b3;
     }
 
     main p input:focus{
         outline: none; /* Important */
-        border:2px solid #121111cd;
+        border:1.5px solid #121111dc;
     }
 }
 
